@@ -1,6 +1,6 @@
 - Hey, you! 🦋 
-- 👩🏻‍💻 Information Systems student studying to be a front-end developer
-- 🤓 Current learning Typescript
+- 👩🏻‍💻 Information Systems student
+- 🤓 Current learning Phyton
 - 💻 Reach me: sofiabittencourt8@gmail.com
 
 <div style="display: inline_block"><br>
